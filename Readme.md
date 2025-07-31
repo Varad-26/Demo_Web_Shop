@@ -102,14 +102,22 @@ AUT URL: https://demowebshop.tricentis.com/
 
 ## Attachments
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+<img width="959" height="671" alt="image" src="https://github.com/user-attachments/assets/22d82bfa-d88c-4145-ac6b-7b413742aac3" />
+
+<img width="543" height="592" alt="image" src="https://github.com/user-attachments/assets/117c3a58-957a-4dd3-84d9-221a1ca685c7" />
+
+<img width="946" height="832" alt="image" src="https://github.com/user-attachments/assets/f77923cf-98ac-453b-b0fa-34c8a1984baa" />
+
+<img width="935" height="830" alt="image" src="https://github.com/user-attachments/assets/0fcb090f-f21e-4ca7-8bc4-a4880b39d01e" />
+
+<img width="948" height="340" alt="image" src="https://github.com/user-attachments/assets/c166f1bf-02da-4901-aa46-3f3574083030" />
+
+<img width="942" height="729" alt="image" src="https://github.com/user-attachments/assets/8bbd1df7-befb-4eba-90f9-38ac6db4c0fa" />
+
+<img width="941" height="828" alt="image" src="https://github.com/user-attachments/assets/8de64a74-17ab-4129-81c8-2e3867d98aa6" />
+
+<img width="958" height="688" alt="image" src="https://github.com/user-attachments/assets/fb097da9-ef32-4319-aeb2-17105194e73e" />
+
 
 
 ---
