@@ -1,4 +1,5 @@
-![alt text](image.png)
+<img width="310" height="60" alt="image" src="https://github.com/user-attachments/assets/90d3ad98-ab4a-4247-94cd-2aad521de956" />
+
 
 # E-Commerce Automation Test Store Testing
 
